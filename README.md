@@ -1,5 +1,5 @@
-- 👋 Hi, I'm Troy Ciardelli-Zaryckyj.
-- 👀 I’m interested in improving my skills.
+- 👋 Hi, I'm Troy.
+- 👀 I’m interested in mastering full stack work.
 - 🌱 I’m currently learning Computer Science at the University of New Hampshire.
 - 💞️ I’m looking to collaborate on something worth while.
 - 📫 troyciardellizaryckyj@gmail.com
